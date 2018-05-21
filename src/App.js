@@ -4,7 +4,7 @@ import Titles from "./components/Titles";
 import Form from "./components/Form";
 import Weather from "./components/Weather";
 
-const API_KEY = "89d957be90122412cdfc8d0873c8f8ed";
+const API_KEY = "YOUR_API_KEY";
 
 class App extends React.Component{
 	state = {
